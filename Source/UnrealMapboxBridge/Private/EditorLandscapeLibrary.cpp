@@ -1,5 +1,4 @@
 #include "EditorLandscapeLibrary.h"
-#include "EditorLandscapeLibrary.h"
 #include "Developer/DesktopPlatform/Public/IDesktopPlatform.h"
 #include "Developer/DesktopPlatform/Public/DesktopPlatformModule.h"
 #include "Landscape.h"

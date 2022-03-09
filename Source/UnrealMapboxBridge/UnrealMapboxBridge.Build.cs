@@ -25,7 +25,10 @@ public class UnrealMapboxBridge : ModuleRules
 		PublicDependencyModuleNames.AddRange(
 			new string[]
 			{
-				"Core", "Landscape", "LandscapeEditor",
+				"Core", "Landscape", 
+				"LandscapeEditor",
+				"EditorScriptingUtilities",
+				"RemoteControl"
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
@@ -41,15 +44,15 @@ public class UnrealMapboxBridge : ModuleRules
 				"Blutility",
 				"UMG",
 				"Json",
-				"JsonUtilities", "LandscapeEditor", "Foliage", "LandscapeEditorUtilities",
+				"JsonUtilities",
+				"Foliage", 
+				"LandscapeEditorUtilities",
 				"CoreUObject",
 				"Landscape",
 				"Foliage",
 				"UnrealEd",
 				"RHI",
-				"RenderCore", 
-				"EditorScriptingUtilities", 
-				"PluginUtils",
+				"RenderCore",
 				"Projects"
 				// ... add private dependencies that you statically link with here ...	
 			}
