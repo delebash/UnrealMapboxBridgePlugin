@@ -32,11 +32,19 @@ using json = nlohmann::json;
 
 void UEditorLandscapeLibrary::RunExe(const FString PathToExe)
 {
+	UWorld* World = GEditor->GetEditorWorldContext().World();
+	FString mapPath = World->GetWorld()->GetPathName();
+	FString arg = "--mappath " + mapPath;
+	const TCHAR* args = *arg;;
+	//UE_LOG(LogNet, Log, TEXT("Utmx: %s"), args);
+	
 	static FString BaseDir = IPluginManager::Get().FindPlugin(TEXT("UnrealMapboxBridge"))->GetBaseDir();
 	FString AppExePath = BaseDir +
 		"\\Resources\\unreal_mapbox_bridge.exe";
 	const TCHAR* charPathToExe = *AppExePath;
-	FPlatformProcess::CreateProc(charPathToExe, nullptr, true, false, false, nullptr, 0, nullptr, nullptr);
+
+	
+	FPlatformProcess::CreateProc(charPathToExe, args, true, false, false, nullptr, 0, nullptr, nullptr);
 }
 
 void UEditorLandscapeLibrary::OpenFolderDialog(const FString& DialogTitle, const FString& DefaultPath,
