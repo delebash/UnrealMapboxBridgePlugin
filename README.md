@@ -7,6 +7,9 @@ This project is not affiliated with Mapbox it is just something I wanted to do. 
 
 Video <a href="https://youtu.be/f33OBh1Xk4c" target="_blank">demo</a> 
 
+<a href="https://discord.gg/2WkHWNDf8q" target="_blank">Discord Server</a>
+
+
 **To Install and Setup:**
 
 1) Download this repo or the release file
