@@ -3,6 +3,7 @@
 #include "Developer/DesktopPlatform/Public/DesktopPlatformModule.h"
 #include "Landscape.h"
 #include "LandscapeProxy.h"
+#include "LandscapeStreamingProxy.h"
 #include "LandscapeInfo.h"
 #include "LandscapeEdit.h"
 #include "LandscapeEditorUtils.h"
@@ -26,6 +27,7 @@
 #include <fstream>
 #include "UObject/ConstructorHelpers.h"
 #include "Components/SplineComponent.h"
+#include "WorldPartition/WorldPartition.h"
 
 
 using json = nlohmann::json;
@@ -128,10 +130,13 @@ void UEditorLandscapeLibrary::ImportHeightmap(FString FilePath, FString Landscap
 	int ComponentSizeQuads = 63;
 	int SubsectionSizeQuads = 63;
 	int NumSubsections = 2;
+	//int WorldPartitionGridSize = 2;
 
 	Landscape->ComponentSizeQuads = ComponentSizeQuads;
 	Landscape->SubsectionSizeQuads = SubsectionSizeQuads;
 	Landscape->NumSubsections = NumSubsections;
+//	Landscape->GridSize = WorldPartitionGridSize;
+	
 	Landscape->SetLandscapeGuid(FGuid::NewGuid());
 
 	const auto ActualPath = FilePath.IsEmpty() ? Landscape->ReimportHeightmapFilePath : FilePath;
