@@ -1,6 +1,6 @@
 # Unreal Mapbox Bridge Plugin
 
-(WIP)  Alpha stage.
+Updated for UE 5.0 Release
 
 This project allows you to create an Unreal landscape from a real world location on a map.
 This project is not affiliated with Mapbox it is just something I wanted to do. Cheers!
