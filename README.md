@@ -14,7 +14,7 @@ Video <a href="https://youtu.be/f33OBh1Xk4c" target="_blank">demo</a>
 
 1) Download this repo or the release file
 2) Unzip
-3) Rename the plugin the one with all the files, by removing the -master so the folder is just called nrealMapboxBridgePlugin
+3) Rename the plugin the one with all the files, by removing the -master so the folder is just called UnrealMapboxBridgePlugin
 4) Copy that folder to your Plugins directory in your Unreal Project.  If you do not have a Plugins directory just create one.
 5) Open your project.  It should ask you to build the plugin, click ok.
 6) In your content viewer you will need to show Plugin Content
