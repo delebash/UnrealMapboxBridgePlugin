@@ -9,6 +9,8 @@ Video <a href="https://youtu.be/f33OBh1Xk4c" target="_blank">demo</a>
 
 <a href="https://discord.gg/2WkHWNDf8q" target="_blank">Discord Server</a>
 
+![image](https://user-images.githubusercontent.com/2220160/177798094-7e1b613d-7f27-402d-b966-5a07288cf6b8.png)
+
 
 **To Install and Setup:**
 
