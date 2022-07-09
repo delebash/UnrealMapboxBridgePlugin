@@ -42,7 +42,7 @@ void UEditorLandscapeLibrary::RunExe(const FString PathToExe)
 	
 	static FString BaseDir = IPluginManager::Get().FindPlugin(TEXT("UnrealMapboxBridge"))->GetBaseDir();
 	FString AppExePath = BaseDir +
-		"\\Resources\\unreal_mapbox_bridge.exe";
+		"\\Resources\\unreal_mapbox_bridge\\Unreal Mapbox Bridge.exe";
 	const TCHAR* charPathToExe = *AppExePath;
 
 	
