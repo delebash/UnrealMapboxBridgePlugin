@@ -11,6 +11,11 @@ Get help here <a href="https://discord.gg/2WkHWNDf8q" target="_blank">Discord Se
 
 ![image](https://user-images.githubusercontent.com/2220160/177798094-7e1b613d-7f27-402d-b966-5a07288cf6b8.png)
 
+Other free Unreal projects:
+
+https://github.com/delebash/unreal_vault_organizer
+
+https://github.com/delebash/unreal_mapbox_bridge
 
 **To Install and Setup:**
 
