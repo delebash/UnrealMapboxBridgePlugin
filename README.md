@@ -5,6 +5,15 @@ Updated for UE 5.0 Release
 This project allows you to create an Unreal landscape from a real world location on a map.
 This project is not affiliated with Mapbox it is just something I wanted to do. Cheers!
 
+
+### New Feature: 09/09/2022
+
+Added ability to create landmass brush stamps from selected location.
+This feature requires a paid plugin from the market place.  
+https://www.unrealengine.com/marketplace/en-US/product/landscape-stamping-tool-100-custom-brushes?sessionInvalidated=true
+
+This new feature automates the creation of the landscape brush for the above plugin.
+
 Video <a href="https://youtu.be/f33OBh1Xk4c" target="_blank">demo</a> 
 
 Get help here <a href="https://discord.gg/2WkHWNDf8q" target="_blank">Discord Server</a>
