@@ -29,6 +29,10 @@
     {
       "Name": "RemoteControl",
       "Enabled": true
+    },
+    {
+      "Name": "VaRest",
+      "Enabled": true
     }
   ]
 }
