@@ -1,6 +1,14 @@
 # Unreal Mapbox Bridge Plugin
 
 
+
+10/14/2022  New Features -- Alpha (WIP)
+Track Generator
+Georeference Lng/Lat points on landscape
+Import Geojson features.
+
+Video: https://www.youtube.com/watch?v=0YaTKKJuyh0
+
 10/08/2022 Updated for 5.1 Preview
 
 Updated for UE 5.0 Release
@@ -67,3 +75,10 @@ Features Implemented:
 2) WIP --  Import landscape features such as rivers, roads, lakes.
 
 For project status please check the <a href="https://trello.com/b/7jXYlo13/unreal-mapbox-bridge" target="_blank">Roadmap</a>
+
+
+Credits to:
+
+Zak Parrish for Track Generator https://www.youtube.com/watch?v=wR0fH6O9jD8
+
+[L1z4rD89](https://forums.unrealengine.com/u/L1z4rD89) for Georeference and Track Generator integration 
