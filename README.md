@@ -3,7 +3,8 @@
 
 
 10/14/2022  New Features -- Alpha (WIP)
-Track Generator
+
+STrack Generator
 Georeference Lng/Lat points on landscape
 Import Geojson features.
 
