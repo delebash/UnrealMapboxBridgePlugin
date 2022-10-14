@@ -5,7 +5,9 @@
 10/14/2022  New Features -- Alpha (WIP)
 
 Track Generator
+
 Georeference Lng/Lat points on landscape
+
 Import Geojson features.
 
 Video: https://www.youtube.com/watch?v=0YaTKKJuyh0
