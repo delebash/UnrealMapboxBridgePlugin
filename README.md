@@ -1,6 +1,10 @@
 # Unreal Mapbox Bridge Plugin
 
+10/19/2022 New Featuere
 
+Size in KM of selected tile at selected zoom level
+
+![](Docs/BBSizeInKM.png)
 
 10/14/2022  New Features -- Alpha (WIP)
 
