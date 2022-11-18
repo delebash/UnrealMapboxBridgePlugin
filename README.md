@@ -1,5 +1,8 @@
 # Unreal Mapbox Bridge Plugin
 
+This project allows you to create an Unreal landscape from a real world location on a map.
+This project is not affiliated with Mapbox it is just something I wanted to do. Cheers!
+
 ## [Intro and Install Video](https://www.youtube.com/watch?v=wwEDuVmCayU)
 
 
@@ -24,8 +27,7 @@ Import Geojson features.
 
 Updated for UE 5.0 Release
 
-This project allows you to create an Unreal landscape from a real world location on a map.
-This project is not affiliated with Mapbox it is just something I wanted to do. Cheers!
+
 
 
 ### New Feature: 09/09/2022
