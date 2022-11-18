@@ -3,6 +3,17 @@
 This project allows you to create an Unreal landscape from a real world location on a map.
 This project is not affiliated with Mapbox it is just something I wanted to do. Cheers!
 
+Get help here <a href="https://discord.gg/2WkHWNDf8q" target="_blank">Discord Server</a>
+
+![image](https://user-images.githubusercontent.com/2220160/177798094-7e1b613d-7f27-402d-b966-5a07288cf6b8.png)
+
+Other free Unreal projects:
+
+https://github.com/delebash/unreal_vault_organizer
+
+https://github.com/delebash/unreal_mapbox_bridge
+
+
 ## [Intro and Install Video](https://www.youtube.com/watch?v=wwEDuVmCayU)
 
 
@@ -27,9 +38,6 @@ Import Geojson features.
 
 Updated for UE 5.0 Release
 
-
-
-
 ### New Feature: 09/09/2022
 
 Added ability to create landmass brush stamps from selected location.
@@ -40,15 +48,6 @@ This new feature automates the creation of the landscape brush for the above plu
 
 Video <a href="https://youtu.be/f33OBh1Xk4c" target="_blank">demo</a> 
 
-Get help here <a href="https://discord.gg/2WkHWNDf8q" target="_blank">Discord Server</a>
-
-![image](https://user-images.githubusercontent.com/2220160/177798094-7e1b613d-7f27-402d-b966-5a07288cf6b8.png)
-
-Other free Unreal projects:
-
-https://github.com/delebash/unreal_vault_organizer
-
-https://github.com/delebash/unreal_mapbox_bridge
 
 **To Install and Setup:**
 
