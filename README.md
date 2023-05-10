@@ -12,7 +12,7 @@ This project is not affiliated with Mapbox it is just something I wanted to do. 
 
 https://www.youtube.com/playlist?list=PLFCVXzupw1r_7ExUSGDxHGHU-gPRxOGeZ
 
-## Web App Live Demo
+## Web App Live 
 
 https://terrain.justgeektechs.com/#/
 
