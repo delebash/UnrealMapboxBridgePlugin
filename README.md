@@ -1,7 +1,7 @@
-# Unreal Mapbox Bridge Plugin
+# Unreal Map Bridge Plugin
 
 This project allows you to create an Unreal landscape from a real world location on a map.
-This project is not affiliated with Mapbox it is just something I wanted to do. Cheers!
+This project is not affiliated with Mapbox or Maptiler it is just something I wanted to do. Cheers!
 
 
 
@@ -12,16 +12,16 @@ This project is not affiliated with Mapbox it is just something I wanted to do. 
 
 https://www.youtube.com/playlist?list=PLFCVXzupw1r_7ExUSGDxHGHU-gPRxOGeZ
 
-## Web App Live 
+## Web App Live  New Map App 08/22/203
 
-https://terrain.justgeektechs.com/#/
+https://map.justgeektechs.com/#
 
 ## Support:
 https://discord.gg/2WkHWNDf8q
 
 ## My other projects:
 
-Unreal Mapbox Bridge  -  Import real world locations into UE as Landscapes
+Unreal Map Bridge  -  Import real world locations into UE as Landscapes
 https://github.com/delebash/UnrealMapboxBridgePlugin
 
 Unreal Vault Organizer -  Organize your Unreal Vault with Tags and get update notifications
