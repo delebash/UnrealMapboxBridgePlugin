@@ -84,3 +84,4 @@ DerivedDataCache/*
 # Content/StarterContent/*
 
 # Exclude MarketPlace Content For Integration Testing
+/Binaries/
